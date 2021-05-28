@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rhexgomez.typer:typer-roboto:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a71e338c0c266864c901b82ebd4eded/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a71e338c0c266864c901b82ebd4eded/jetified-typer-roboto-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3a71e338c0c266864c901b82ebd4eded/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adab4fa520186e50b2e0cca2cea32d8f/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adab4fa520186e50b2e0cca2cea32d8f/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/adab4fa520186e50b2e0cca2cea32d8f/jetified-typer-roboto-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee0510695abf6582f0d9930aa96f89e0/jetified-typer-roboto-2.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee0510695abf6582f0d9930aa96f89e0/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee0510695abf6582f0d9930aa96f89e0/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1a08cc069664aca58170df58c074677/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1a08cc069664aca58170df58c074677/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1a08cc069664aca58170df58c074677/jetified-typer-roboto-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23a50f9ec0c618afeb1f2ee9e21e7386/jetified-typer-roboto-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23a50f9ec0c618afeb1f2ee9e21e7386/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23a50f9ec0c618afeb1f2ee9e21e7386/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f908ad5246f8950777366c79300c0fc2/jetified-typer-roboto-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f908ad5246f8950777366c79300c0fc2/jetified-typer-roboto-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f908ad5246f8950777366c79300c0fc2/jetified-typer-roboto-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rhexgomez.typer/typer-roboto/2.0.0/2340fd01294fc86be1af05abfd15b5e558aa9cce/typer-roboto-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rhexgomez.typer/typer-roboto/2.0.0/729f6306acd810b8c9c7f406118fe8416855af94/typer-roboto-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

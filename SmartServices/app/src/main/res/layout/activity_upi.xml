@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".Payment">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+     android:background="#3f51b5"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select payment options"
+        android:textColor="#FFFFFF"
+        android:textSize="26dp"
+        android:layout_gravity="center"
+
+
+        />
+</LinearLayout>
+      <Button
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:background="@drawable/paytm"
+        android:id="@+id/paybtn"
+        android:layout_marginTop="35dp"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:background="@drawable/unnamed"
+        android:id="@+id/gpaybtn"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+       />
+
+</LinearLayout>

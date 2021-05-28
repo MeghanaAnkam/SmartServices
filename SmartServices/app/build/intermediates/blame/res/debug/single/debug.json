@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_can.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\can.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_cardo.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\cardo.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orders.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_24dp.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_bookmark_24dp.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_expanding_sub_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\expanding_sub_item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_assignment_black_24dp.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_assignment_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_insert.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_din2.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\din2.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_error.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_separator_layout.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\separator_layout.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash_board.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_posts.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_all_posts.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_regular.ttf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\muli_regular.ttf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_duo_view_footer.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\duo_view_footer.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clean.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\clean.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_dropdown_menu_popup_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\dropdown_menu_popup_item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_din2_dark.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\din2_dark.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_items.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_expanding_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\expanding_item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_details.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\details.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\bg1.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_trade_winds.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\trade_winds.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_muli.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\muli.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_group.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paytm.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\paytm.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noi.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\noi.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_email_24dp.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\ic_email_24dp.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_light.ttf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\muli_light.ttf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gold.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\gold.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_faster_one.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\faster_one.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_shade.otf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\shade.otf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sam.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\sam.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_proximanovaregular.otf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\proximanovaregular.otf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_orders.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_size_select_actual_black_24dp.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_photo_size_select_actual_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\edit.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_duo_view_header.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\duo_view_header.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circular_grey_bordersolid.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\circular_grey_bordersolid.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_amiko_bold.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\amiko_bold.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_signin.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\signin.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_check.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_check.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bground.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\bground.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\adapter.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vec.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\vec.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_items.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_add_items.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_person_24px.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\ic_person_24px.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\anim_image_click.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\anim\\image_click.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_outline.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\bg_btn_outline.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_clean_admin.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_clean_admin.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_view_items.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_view_items.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\anim_list_layout_controller.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\anim\\list_layout_controller.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_events2.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_events2.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messaging.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\messaging.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_post.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duo_shape_rectangled_red.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\duo_shape_rectangled_red.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_clean_night.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\clean_night.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lost_and_found.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_lost_and_found.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_orders.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_my_orders.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_product.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\orders_product.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_submit.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\submit.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_empty.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_empty.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thank.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\thank.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_google_signin.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_google_signin.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_clean_image.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_clean_image.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_expanding_layout.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\expanding_layout.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main_admin.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\fragment_main_admin.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_action_add.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_action_add.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_food_and_restaurant.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_food_and_restaurant.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_items.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\items.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upi.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_upi.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_cinzel_decorative.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\cinzel_decorative.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_events2.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\events2.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cleanliness.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_cleanliness.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_events__admin.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_events__admin.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cleaniness.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\cleaniness.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_events_dark.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\events_dark.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circularbordersolid.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\circularbordersolid.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_din1.jpeg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\din1.jpeg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrim_topdown.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\scrim_topdown.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_canteen_user.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\canteen_user.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_alco.ttf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\alco.ttf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\raw_sample1.mp3.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\raw\\sample1.mp3"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_admin_recycler.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\layout_admin_recycler.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_cabin_sketch_bold.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\cabin_sketch_bold.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_color.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\btn_color.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_continue_booking.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_continue_booking.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_din.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable-v24\\din.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whats.webp.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\whats.webp"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eventposter.jpg.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\eventposter.jpg"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_events__admin1.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_events__admin1.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart1.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_cart1.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bolditalic.ttf.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\roboto_bolditalic.ttf"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_bowlby_one.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\bowlby_one.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_butsty.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\butsty.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pop_up.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_pop_up.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inside_gpa.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_inside_gpa.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unnamed.png.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\font_wendy_one.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\font\\wendy_one.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cleanbuttons.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\cleanbuttons.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scrim.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\drawable\\scrim.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_empty_orders.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_empty_orders.xml"
+    },
+    {
+        "merged": "F:\\SmartServices\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_event1.xml.flat",
+        "source": "F:\\SmartServices\\app\\src\\main\\res\\layout\\activity_event1.xml"
+    }
+]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/canteenbg"
+    tools:context=".Cart1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/canteenbg"
+        >
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     android:layout_marginTop="25dp"
+     android:background="@color/canteenbg"
+     >
+     <TextView
+         android:layout_width="300dp"
+         android:layout_height="wrap_content"
+         android:fontFamily="@font/cardo"
+         android:letterSpacing="0.1"
+         android:layout_marginLeft="5dp"
+         android:text="My Cart"
+         android:textColor="#FFFFFF"
+         android:textSize="35dp"
+         android:textStyle="bold" />
+  <ImageView
+      android:layout_width="match_parent"
+      android:layout_height="40dp"
+      android:layout_gravity="center"
+      android:id="@+id/myorders"
+      android:src="@drawable/ic_assignment_black_24dp"
+   />
+ </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/canteenbg"
+        android:layout_marginTop="25dp"
+        >
+    <com.diegodobelo.expandingview.ExpandingList
+        android:id="@+id/expanding_list_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/btn_pay"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:id="@+id/tot"
+        />
+
+        <Button
+            android:id="@+id/btn_pay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/duo_shape_rectangled_red"
+            android:text="Pay"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="#1e3d59"
+            android:letterSpacing="0.1"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

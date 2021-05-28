@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InsideGpa"
+    android:background="@color/filldet"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/filldet"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/GPABG"
+        android:orientation="vertical"
+      >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fill the details"
+            android:layout_marginTop="15dp"
+            android:textSize="40dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/filldet"
+            android:orientation="vertical"
+            >
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"/>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Subject"
+                android:layout_marginLeft="5dp"
+                android:textSize="25dp"
+                android:textColor="@color/textColor"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Credits"
+                android:layout_marginLeft="35dp"
+                android:textSize="25dp"
+                android:textColor="@color/textColor"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Grade"
+                android:layout_marginLeft="50dp"
+                android:textSize="25dp"
+                android:textColor="@color/textColor"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 1"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:maxLength="1"
+                android:inputType="numberDecimal"
+                android:id="@+id/c1">
+
+            </AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+               android:maxLines="1"
+                android:lines="1"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:minLines="1"
+                android:id="@+id/g1"
+                />
+
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 2"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="1"
+                android:maxLines="1"
+                android:inputType="numberDecimal"
+                android:id="@+id/c2"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:id="@+id/g2"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 3"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="1"
+                android:maxLines="1"
+                android:inputType="numberDecimal"
+                android:id="@+id/c3"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:id="@+id/g3"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:hint="Subject 4"
+                android:lines="1"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="1"
+                android:maxLines="1"
+                android:inputType="numberDecimal"
+                android:id="@+id/c4"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:id="@+id/g4"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 5"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:maxLines="1"
+                android:maxLength="1"
+                android:id="@+id/c5"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:id="@+id/g5"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 6"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:maxLines="1"
+                android:maxLength="1"
+                android:id="@+id/c6"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:id="@+id/g6"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 7"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:maxLength="1"
+                android:maxLines="1"
+                android:id="@+id/c7"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:id="@+id/g7"></AutoCompleteTextView>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+            <EditText
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:hint="Subject 8"></EditText>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal"
+                android:maxLength="1"
+                android:maxLines="1"
+                android:id="@+id/c8"></AutoCompleteTextView>
+            <AutoCompleteTextView
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:maxLength="2"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:id="@+id/g8"></AutoCompleteTextView>
+        </TableRow>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="122dp"
+                android:background="@color/filldet"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/cal"
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/butsty"
+                    android:text="Calculate"
+                    android:textColor="#ecc19c"
+                    android:textSize="25dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp" />
+
+            </LinearLayout>
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

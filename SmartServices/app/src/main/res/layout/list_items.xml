@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/canteenbg"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    tools:context=".MainActivity">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="60dp"
+        android:layout_gravity="top"
+        android:focusable="false"
+        android:layout_margin="8dp"
+        app:cardBackgroundColor="#FFF"
+        app:cardCornerRadius="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+           >
+
+            <ImageView
+                android:id="@+id/img_item"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:focusable="false"
+                android:layout_margin="10dp"
+                android:transitionName="images"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+                android:focusable="false"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/img_item"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="104dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:transitionName="text1"
+            android:padding="10dp"
+            android:fontFamily="sans-serif-black"
+            android:text="Country Name"
+            android:textColor="#232F34"
+            android:textSize="18sp"
+           />
+            <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/img_item"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="25dp"
+                android:layout_weight="1"
+                android:textColor="@color/canteen_text"
+                android:textStyle="bold"
+                android:transitionName="text2"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:layout_marginRight="25dp"
+                android:focusable="false"
+                android:gravity="end"
+                android:padding="10dp"
+                android:text="Price"
+                android:textSize="18sp"
+                />
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

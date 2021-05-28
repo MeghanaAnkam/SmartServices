@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541170337776",
+    "firebase_url": "https://smartservices-95da4.firebaseio.com",
+    "project_id": "smartservices-95da4",
+    "storage_bucket": "smartservices-95da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541170337776:android:3f04fe19596b1a7b3dbf35",
+        "android_client_info": {
+          "package_name": "com.example.smartservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541170337776-7qkfg7f8ugb6khbbbma1191agvjudppu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCjj-GlmT20Z8qElA4cQITgt4Cj9NaPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541170337776-7qkfg7f8ugb6khbbbma1191agvjudppu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

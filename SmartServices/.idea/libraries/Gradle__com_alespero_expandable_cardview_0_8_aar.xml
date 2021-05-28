@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alespero:expandable-cardview:0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937026ebdb4fb244dd460a854124e677/jetified-expandable-cardview-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937026ebdb4fb244dd460a854124e677/jetified-expandable-cardview-0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0850a04a86b0e5e98f9200487e08a298/jetified-expandable-cardview-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0850a04a86b0e5e98f9200487e08a298/jetified-expandable-cardview-0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0850a04a86b0e5e98f9200487e08a298/jetified-expandable-cardview-0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47b7efc5628851ed8c862ea7b6d8911/jetified-expandable-cardview-0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47b7efc5628851ed8c862ea7b6d8911/jetified-expandable-cardview-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e47b7efc5628851ed8c862ea7b6d8911/jetified-expandable-cardview-0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e441d23f05e3cd22d5fb44b0ecd98e89/jetified-expandable-cardview-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e441d23f05e3cd22d5fb44b0ecd98e89/jetified-expandable-cardview-0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e441d23f05e3cd22d5fb44b0ecd98e89/jetified-expandable-cardview-0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0674badcdfa2b72368d8f2ec07c80244/jetified-expandable-cardview-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0674badcdfa2b72368d8f2ec07c80244/jetified-expandable-cardview-0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0674badcdfa2b72368d8f2ec07c80244/jetified-expandable-cardview-0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alespero/expandable-cardview/0.8/185e1d9449e68002e487badccd69977e3cfd27a4/expandable-cardview-0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alespero/expandable-cardview/0.8/b56fdf62e4e6a338f8a8109ed972a44365d0d4f2/expandable-cardview-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

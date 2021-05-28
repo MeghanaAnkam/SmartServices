@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smartservices"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.example.smartservices.InitApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.smartservices.Orders" />
+        <activity
+            android:name="com.example.smartservices.LostAndFound"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.example.smartservices.InsideGpa"
+            android:theme="@style/AppTheme.SlidrActivityTheme" />
+        <activity
+            android:name="com.example.smartservices.Result"
+            android:theme="@style/AppTheme.SlidrActivityTheme" />
+        <activity
+            android:name="com.example.smartservices.DashBoard"
+            android:theme="@style/AppTheme2" />
+        <activity android:name="com.example.smartservices.ImageActivity" />
+        <activity android:name="com.example.smartservices.Cleanliness" />
+        <activity
+            android:name="com.example.smartservices.Main3Activity"
+            android:theme="@style/AppTheme4" />
+        <activity
+            android:name="com.example.smartservices.EventsActivity2"
+            android:parentActivityName="com.example.smartservices.EventActivity1"
+            android:theme="@style/AppTheme4" />
+        <activity
+            android:name="com.example.smartservices.EventActivity1"
+            android:theme="@style/AppTheme4" />
+        <activity android:name="com.example.smartservices.Cart1" />
+        <activity
+            android:name="com.example.smartservices.MyOrders"
+            android:theme="@style/AppTheme4" />
+        <activity android:name="com.example.smartservices.ContinueBooking" />
+        <activity android:name="com.example.smartservices.Payment" />
+        <activity
+            android:name="com.example.smartservices.Second"
+            android:theme="@style/AppTheme.SlidrActivityTheme" />
+        <activity
+            android:name="com.example.smartservices.Main2Activity"
+            android:theme="@style/AppTheme4" />
+        <activity android:name="com.example.smartservices.Empty" />
+        <activity android:name="com.example.smartservices.EmptyOrders" />
+        <activity android:name="com.example.smartservices.CleanImageActivity" />
+        <activity
+            android:name="com.example.smartservices.Events_Admin1"
+            android:parentActivityName="com.example.smartservices.Events_Admin"
+            android:theme="@style/AppTheme4" />
+        <activity
+            android:name="com.example.smartservices.AdminActivity"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name="com.example.smartservices.Events_Admin"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name="com.example.smartservices.MyProfile"
+            android:theme="@style/AppTheme3" />
+        <activity
+            android:name="com.example.smartservices.PopUp"
+            android:theme="@style/AppTheme.customtheme" />
+        <activity android:name="com.example.smartservices.Account" />
+        <activity
+            android:name="com.example.smartservices.MainActivity"
+            android:theme="@style/AppTheme.SlidrActivityTheme" />
+        <activity android:name="com.example.smartservices.GoogleSignin" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.smartservices.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+        <provider
+            android:name="com.rhexgomez.typer.common.TyperProvider"
+            android:authorities="com.example.smartservices.com.rhexgomez.typer.roboto"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.smartservices.com.squareup.picasso"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.smartservices.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

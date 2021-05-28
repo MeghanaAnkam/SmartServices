@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Yalantis:pull-to-make-soup:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec756aa12cf78345df264ba1a73c247/jetified-pull-to-make-soup-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec756aa12cf78345df264ba1a73c247/jetified-pull-to-make-soup-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ec756aa12cf78345df264ba1a73c247/jetified-pull-to-make-soup-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8392825f45188529163f8986d97e4312/jetified-pull-to-make-soup-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8392825f45188529163f8986d97e4312/jetified-pull-to-make-soup-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8392825f45188529163f8986d97e4312/jetified-pull-to-make-soup-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee764ae0b13e672f507b711d5d7db4aa/jetified-pull-to-make-soup-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee764ae0b13e672f507b711d5d7db4aa/jetified-pull-to-make-soup-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee764ae0b13e672f507b711d5d7db4aa/jetified-pull-to-make-soup-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4565a74cee9385f99645dca8d49a8dd3/jetified-pull-to-make-soup-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4565a74cee9385f99645dca8d49a8dd3/jetified-pull-to-make-soup-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4565a74cee9385f99645dca8d49a8dd3/jetified-pull-to-make-soup-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2aff6c7267d481e1b419a4d23deb04/jetified-pull-to-make-soup-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2aff6c7267d481e1b419a4d23deb04/jetified-pull-to-make-soup-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f2aff6c7267d481e1b419a4d23deb04/jetified-pull-to-make-soup-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Yalantis/pull-to-make-soup/1.0.2/c5c00e4509dca267a8d56e9d25ee8c74a50389e2/pull-to-make-soup-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Yalantis/pull-to-make-soup/1.0.2/9f7a26f31ed0c1bab5093eb040b612a7ea705853/pull-to-make-soup-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

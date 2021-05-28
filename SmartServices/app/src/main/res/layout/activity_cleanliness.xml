@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    tools:context=".Cleanliness">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="CLEANLINESS"
+    android:textSize="25dp"
+    android:textStyle="bold"
+    android:layout_margin="10dp"
+    android:letterSpacing="0.1"
+    android:fontFamily="sans-serif-condensed-medium"
+    />
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/cycle"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="clean1.json"
+        app:lottie_loop="true"
+        />
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your Rollno"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="25dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rollno"
+            android:inputType="text"
+            android:maxLength="10"
+            android:lines="1"
+
+            android:maxEms="1"
+            android:maxLines="1"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Place"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="25dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/dustplace"
+            android:inputType="text"
+            android:maxLength="30"
+            android:lines="1"
+            android:maxEms="1"
+            android:maxLines="1"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.github.tonywills.loadingbutton.HorizontalLoadingButton
+        android:id="@+id/uploadbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:buttonBackgroundTint="@color/color1"
+        android:layout_margin="25dp"
+        android:background="@drawable/btn_color"
+        android:layout_gravity="center_horizontal"
+        app:loadingColor="#ecc19c"
+        app:loadingPosition="right"
+        app:buttonTextDefault="Upload Image"
+        app:buttonTextLoading="please wait.."
+        style="@style/Widget.AppCompat.Button.Colored" />
+</LinearLayout>
